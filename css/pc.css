@@ -42,7 +42,7 @@ li{
 	top: 0;
 	left: 0;
 	/* 站点背景图片 */
-	background-image: url(../img/start.jpg);
+	background-image: url(../images/start.jpg);
 	/* background-image: url(图片api路径); */
 	background-size: cover;
 	background-position: center center;
@@ -98,7 +98,7 @@ li{
 	width: 100%;
 	height: 120px;
 	/* 左上角头像下面的背景图片 */
-	background-image: url(../img/cnmtlbg.jpg);
+	background-image: url(../images/cnmtlbg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -179,7 +179,7 @@ li{
 	height: 100%;
 	background-color: #efefef;
 	/* 官网首页页面背景图片 */
-	background-image: url(../img/shouye.jpg);
+	background-image: url(../images/shouye.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -389,7 +389,7 @@ li{
 	width: 100%;
 	height: 360px;
 	/* 关于站长页面顶部头图 */
-	background-image: url(../img/guanyuzhanzhang.jpg);
+	background-image: url(../images/guanyuzhanzhang.jpg);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -602,7 +602,7 @@ li{
 	height: 100%;
 	background-color: #efefef;
 	/* 商业合作页面背景图片1 */
-	background-image: url(../img/shangyehezuo.png);
+	background-image: url(../images/shangyehezuo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -615,7 +615,7 @@ li{
 	width: 100%;
 	height: 100%;
 	/* 商业合作页面背景图片2 */
-	background-image: url(../img/shangyehezuo.png);
+	background-image: url(../images/shangyehezuo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -711,7 +711,7 @@ li{
 	width: 100%;
 	height: 420px;
 	/* 站点展示页面顶部头图 */
-	background-image: url(../img/zhandian.jpg);
+	background-image: url(../images/zhandian.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -734,7 +734,7 @@ li{
 	left: 0;
 	z-index: 3;
 	/* 站点展示页面顶部头图 */
-	background-image: url(../img/zhandian.jpg);
+	background-image: url(../images/zhandian.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -746,7 +746,7 @@ li{
 	position: absolute;
 	z-index: 5;
 	/* 站点展示页面宇航员图片 */
-	background-image: url(../img/yuhangyuan.png);
+	background-image: url(../images/yuhangyuan.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -758,7 +758,7 @@ li{
 	position: absolute;
 	z-index: 5;
 	/* 站点展示页面顶部鲸鱼图片 */
-	background-image: url(../img/jing.png);
+	background-image: url(../images/jing.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -966,7 +966,7 @@ li{
 	width: 100%;
 	height: 360px;
 	/* 本站源码页面顶部头图 */
-	background-image: url(../img/benzhanyuanma.jpg);
+	background-image: url(../images/benzhanyuanma.jpg);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
@@ -1081,7 +1081,7 @@ li{
 	width: 100%;
 	height: 360px;
 	/* 静态资源页面顶部头图 */
-	background-image: url(../img/jingtaiziyuan.jpg);
+	background-image: url(../images/jingtaiziyuan.jpg);
 	background-size: cover;
 	background-position: center bottom;
 	background-repeat: no-repeat;
