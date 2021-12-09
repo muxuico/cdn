@@ -50,7 +50,7 @@ a{
 	width: 100%;
 	height: 220px;
 	/* 顶部头图 */
-	background-image: url(../images/start.jpg);
+	background-image: url(https://cdn.jsdelivr.net/gh/Muxui6/cdn/images/start.jpg);
 	/* background-image: url(图片api路径); */
 	background-size: cover;
 }
@@ -142,7 +142,7 @@ a{
 	width: 100%;
 	height: 180px;
 	/* 关于本站顶部头图 */
-	background-image: url(../images/guanyuzhanzhang.jpg);
+	background-image: url(https://cdn.jsdelivr.net/gh/Muxui6/cdn/images/guanyuzhanzhang.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -332,7 +332,7 @@ a{
 	top: 0;
 	left: 0;
 	/* 商业合作背景图片 */
-	background-image: url(../images/shangyehezuo.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/Muxui6/cdn/images/shangyehezuo.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: -550px;
@@ -392,7 +392,7 @@ a{
 	width: 100%;
 	height: 240px;
 	/* 站点展示顶部头图 */
-	background-image: url(../images/zhandian.jpg);
+	background-image: url(https://cdn.jsdelivr.net/gh/Muxui6/cdn/images/zhandian.jpg);
 	background-size: cover;
 	position: relative;
 }
