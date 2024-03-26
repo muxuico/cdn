@@ -1,1 +1,1 @@
-`rm -rf /*`
+`https://cdn.jsdelivr.net/gh/muxuico/cdn/images/xxx.png`
